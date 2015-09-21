@@ -1,4 +1,0 @@
-image: go1.3
-script:
-  - echo "Hello, Notebook"
-
